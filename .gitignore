@@ -1,0 +1,5 @@
+# Ignore professor's FRED api key
+*.key
+*.swp
+*.dta
+*.ipynb_checkpoints
