@@ -4,12 +4,10 @@ A collection of econometrics projects from the **The Interpretation and Analysis
 
 ## Project Details
 
-1. [Things](assignments/assignment01/analysis.pdf)
-2. [Things](assignments/assignment02/analysis.pdf)
-3. [Things](assignments/assignment03/analysis.pdf)
-4. [Things](assignments/assignment04/analysis.pdf)
-5. [Things](assignments/assignment05/analysis.pdf)
-6. [Things](assignments/assignment06/analysis.pdf)
-7. [Things](assignments/assignment07/analysis.pdf)
-8. [Things](assignments/assignment08/analysis.pdf)
-9. [Things](assignments/assignment09/analysis.pdf)
+* [Measurements of Grade Inflation](assignment04/grades.png)
+* [Unemployment in the wake of COVID-19](assignment05/analysis.pdf)
+* [Wage change among Americans](assignment06/output.png)
+* [Measuring the Productivity-Pay Gap](assignment07/analysis.pdf)
+   - An additional [poster presentation](assignment07/poster_presentation.pdf) of the data.
+* [Income Inequality Against a Rise in Education](assignment08/analysis.pdf)
+* [Accounting for Social Insurance in Income Inequality](assignment09/analysis.pdf)
